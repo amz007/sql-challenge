@@ -12,7 +12,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 The file labeled "sql-challenge_DataModeling.png" contains the Entity Relationship Diagram of the tables for the 6 CSV files provided for this challenge.
 
 # Data Engineering
-The file labeled "sql-challenge_DataEngineering.sql" contains the table schema. Once the schema was created in PgAdmin, all 6 CSV's were imported into its corresponding table with in the employeesql database. 
+The file labeled "sql-challenge_DataEngineering.sql" contains the table schema. Once the schema was created in PostgreSQL, all 6 CSV's were imported into its corresponding table with in the employeesql database. 
 
 # Data Analysis
 The file labeled "sql-challenge_DataAnalysis.sql" contains the data analysis portion of this challenge. The following questions were answered:
